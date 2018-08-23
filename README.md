@@ -1,4 +1,8 @@
-# layui.page
+[![Latest Stable Version](https://poser.pugx.org/andy/laypage/v/stable)](https://packagist.org/packages/andy/laypage)
+[![Total Downloads](https://poser.pugx.org/andy/laypage/downloads)](https://packagist.org/packages/andy/laypage)
+[![Latest Unstable Version](https://poser.pugx.org/andy/laypage/v/unstable)](https://packagist.org/packages/andy/laypage)
+[![License](https://poser.pugx.org/andy/laypage/license)](https://packagist.org/packages/andy/laypage)
+
 
 #### 项目介绍
 layui 分页封装 基于PHP原生
