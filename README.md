@@ -5,7 +5,7 @@ layui 分页封装 基于PHP原生
 
 #### 用法
 ~~~php
-    $count = 100;
+    $count = 100; 
     $extraParams = [
         'param1' => 'value1',
         'param2' => 'value2'
