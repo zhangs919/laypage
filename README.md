@@ -3,7 +3,6 @@
 [![Latest Unstable Version](https://poser.pugx.org/andy/laypage/v/unstable)](https://packagist.org/packages/andy/laypage)
 [![License](https://poser.pugx.org/andy/laypage/license)](https://packagist.org/packages/andy/laypage)
 
-
 #### 项目介绍
 layui 分页封装 基于PHP原生
 
