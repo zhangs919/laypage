@@ -1,6 +1,7 @@
 {
   "name": "andy/laypage",
   "description": "use layui pagination with php",
+  "license": "MIT",
   "type": "library",
   "require": {
     "php": ">=7.0"
